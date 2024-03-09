@@ -1,5 +1,7 @@
 # TurboFanEngineCycleAnalysis
 
+![alt text](TurboFanEngineCycleAnalysis/StationNumbering.png)
+
 ## Overview
 This repository contains Python scripts dedicated to evaluating and visualizing the performance of a high-bypass ratio, two-spool, separate exhaust turbofan engine. It allows users to explore how varying parameters like Bypass Ratio (BPR), Fan Pressure Ratio (FPR), and Compressor Pressure Ratio (CPR) impact key engine performance metrics.
 
